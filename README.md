@@ -5,8 +5,14 @@
 This project is an ASCII art program implemented in Go. It takes a string as input and outputs a graphic representation of the string using ASCII characters. The output resembles the input string with ASCII characters.
 ### Content
 - main.go
-- testfiles
-
+- testfile
+- go.mod
+- shadow.txt
+- standard.txt
+- thinktoy.txt
+- printart.go
+- readbyline.go
+- readtxtfile.go
 ### Features
 
 - Handles input with numbers, letters, spaces, special characters, and newlines.
