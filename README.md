@@ -158,15 +158,7 @@ If you encounter any issues or have suggestions for improvements, feel free to s
 
 Feel free to explore the codebase, run the program with different inputs, and contribute to enhancing the project. Happy coding!
 
-<img src="https://www.pixelbyhand.com/website-image-size-guidelines/" alt="Alt text" style="border-radius: 50%;">
-
-
-
-
-
-
-
-
+<img src="https://github.com/makebelief/makebelief/edit/main/README.md" alt="Alt text" style="border-radius: 50%;">
 
 
 
