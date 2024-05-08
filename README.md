@@ -1,7 +1,5 @@
 ## ASCII Art Program in Go!
-
-![Go-Logo_Blue-removebg-preview](https://github.com/makebelief/makebelief/assets/166484145/6aae00d7-d7ee-43b5-b77a-fcda67341f40)
-
+![Go-Logo_Blue-removebg-preview(2)](https://github.com/makebelief/makebelief/assets/166484145/ad53f422-f338-4dd7-9ef1-ab772aa1fbb5)
 ### Overview
 
 This project is an ASCII art program implemented in Go. It takes a string as input and outputs a graphic representation of the string using ASCII characters. The output resembles the input string with ASCII characters.
