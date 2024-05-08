@@ -1,6 +1,6 @@
 ## ASCII Art Program in Go!
 
-[Go Logo](images/go_logo.png)
+[Go Logo](https://postimg.cc/hJDdpw5Y)
 
 ### Overview
 
