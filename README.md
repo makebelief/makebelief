@@ -71,9 +71,9 @@ Only standard Go packages are used in this project.
 
 ### Contributors
 
-- [skanenje](https://github.com/skanenje)
-- [krodgers](https://github.com/krodgers)
-- [svictor](https://github.com/svictor)
+- [skanenje](linkedin.com/in/swabri-musa-565350291)
+- [krodgers](linkedin.com/in/rodgers-kaunda)
+- [svictor](linkedin.com/in/shayo-victor-381370307)
 
 ### Goals
 
