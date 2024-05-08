@@ -73,7 +73,7 @@ Only standard Go packages are used in this project.
 
 - [skanenje](linkedin.com/in/swabri-musa-565350291)
 - [krodgers](linkedin.com/in/rodgers-kaunda)
-- [svictor](linkedin.com/in/shayo-victor-381370307)
+- [svictor](https://1000churchflights.my.canva.site/shayovictor)
 
 ### Goals
 
