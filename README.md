@@ -158,6 +158,9 @@ If you encounter any issues or have suggestions for improvements, feel free to s
 
 Feel free to explore the codebase, run the program with different inputs, and contribute to enhancing the project. Happy coding!
 
+<img src="https://github.com/makebelief/makebelief/assets/166484145/ad53f422-f338-4dd7-9ef1-ab772aa1fbb5" alt="Alt text" style="border-radius: 50%;">
+
+
 
 
 
