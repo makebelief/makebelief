@@ -71,14 +71,11 @@ Only standard Go packages are used in this project.
 
 ### Contributors
 
-##<table>
+<table>
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://learn.zone01kisumu.ke/git/aaochieng>
-            <img src=![fa966ef34b0ccdfe772414745aeee49f](https://github.com/makebelief/makebelief/assets/166484145/e1439e7c-58b1-4bb3-b608-39f74e4afca8)
-
-
-size=870 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Aaron/>
+         ![Go-Logo_Blue-removebg-preview(2)](  https://github.com/makebelief/makebelief/edit/main/README.md)
             <br />
             <sub style="font-size:14px"><b>Aoron Ochieng</b></sub>
         </a>
@@ -98,7 +95,9 @@ size=870 width="100;"  style="border-radius:50%;align-items:center;justify-conte
         </a>
     </td>
 </tr>
-</table># Goals
+</table>
+
+# Goals
 
 - Understanding the Go file system (fs) API.
 - Manipulating data in Go.
@@ -157,34 +156,3 @@ If you encounter any issues or have suggestions for improvements, feel free to s
 ## Enjoy ASCII Art in Go!
 
 Feel free to explore the codebase, run the program with different inputs, and contribute to enhancing the project. Happy coding!
-
-<img src="https://github.com/makebelief/makebelief/edit/main/README.md" alt="woza" style="border-radius: 50%;">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
