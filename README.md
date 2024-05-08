@@ -1,6 +1,6 @@
 ## ASCII Art Program in Go!
 
-[Go Logo](https://postimg.cc/hJDdpw5Y)
+![Go-Logo_Blue-removebg-preview](https://github.com/makebelief/makebelief/assets/166484145/6aae00d7-d7ee-43b5-b77a-fcda67341f40)
 
 ### Overview
 
