@@ -66,7 +66,7 @@ Only standard Go packages are used in this project.
 - [krodgers](https://github.com/krodgers)
 - [svictor](https://github.com/svictor)
 
-### Learning Goals
+### Goals
 
 - Understanding the Go file system (fs) API.
 - Manipulating data in Go.
