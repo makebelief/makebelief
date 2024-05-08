@@ -3,6 +3,9 @@
 ### Overview
 
 This project is an ASCII art program implemented in Go. It takes a string as input and outputs a graphic representation of the string using ASCII characters. The output resembles the input string with ASCII characters.
+### Content
+- main.go
+- testfiles
 
 ### Features
 
