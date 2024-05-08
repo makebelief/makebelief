@@ -85,24 +85,21 @@ Only standard Go packages are used in this project.
     </style>
 </head>
 <body>
-    <div class="person">
+    <div class="
+- [skanenje](https://www.linkedin.com/in/swabri-musa-565350291?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Buf0Ls4oWR2O2WLUMO5sIBg%3D%3D)">
         <img src="person1.jpg" alt="Person 1" width="200">
         <p>Name: John Doe</p>
     </div>
-    <div class="person">
+    <div class="- [krodgers](https://www.linkedin.com/in/rodgers-kaunda?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKrv88X6DSByy%2FbXzyFgl7g%3D%3D)">
         <img src="person2.jpg" alt="Person 2" width="200">
         <p>Name: Jane Smith</p>
     </div>
-    <div class="person">
+    <div class="- [svictor](https://www.linkedin.com/in/shayo-victor-381370307?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVqNrlq5mTZS8tPMy8%2FIuUQ%3D%3D)">
         <img src="person3.jpg" alt="Person 3" width="200">
         <p>Name: Alex Johnson</p>
     </div>
 </body>
 </html>
-
-- [skanenje](https://www.linkedin.com/in/swabri-musa-565350291?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Buf0Ls4oWR2O2WLUMO5sIBg%3D%3D)
-- [krodgers](https://www.linkedin.com/in/rodgers-kaunda?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKrv88X6DSByy%2FbXzyFgl7g%3D%3D)
-- [svictor](https://www.linkedin.com/in/shayo-victor-381370307?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVqNrlq5mTZS8tPMy8%2FIuUQ%3D%3D)
 
 ### Goals
 
