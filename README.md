@@ -71,7 +71,6 @@ Only standard Go packages are used in this project.
 
 ### Contributors
 ![Go-Logo_Blue-removebg-preview(2)](https://learn.zone01kisumu.ke/git/avatars/fa966ef34b0ccdfe772414745aeee49f?size=870)
-https://github.com/makebelief/makebelief/edit/main/README.md
 # Goals
 
 - Understanding the Go file system (fs) API.
